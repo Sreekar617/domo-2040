@@ -36,5 +36,5 @@ I use devboards like the Pi Pico all the time, but I never really understood how
 | Flash Chip       | 128Mbit       | 1        | C97521      | $2.65 |
 | LDO SOT-23       | 5v->3v3       | 1        | C5446       | $0.20 |
 | Crystal          | 12MHz         | 1        | C9002       | $0.20 |
-| **Soldering Iron** | |             1        |             |$20 |
+| ~~**Soldering Iron**~~ | |             1        |   stole it from a friend lol          |~~$20~~ |
 
