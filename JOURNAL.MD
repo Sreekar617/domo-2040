@@ -46,9 +46,8 @@ and here's my solution 😭:
 ![](https://cdn.hackclub.com/019f102f-87d7-79fc-af27-670d384ae5c2/image.png)
 
 # ship it
+It was kind of hard to figure out how to get everything ordered and how not to bankrupt four generations of my family for a piece of copper but i eventually figured it out and i'm glad i learned how to order pcba from JLC
 
-bom draft thingie
-blue led: C2288
-diode thing: C191023
-77
-f
+# build it (1 hour)
+It took a while to solder the tiny components, and I accidentally messed up the resistor connected to the LED so i had to make an emergency repair to make the user LED work without resoldering an 0402 resistor but it works now yay 
+video https://cdn.hackclub.com/01a0e574-c0dc-76d3-b759-e71435e16d3c/IMG_4351.mp4
