@@ -2,8 +2,8 @@
 A custom microcontroller built around the RP2040
 
 <img width="256" alt="image" src="https://github.com/user-attachments/assets/ba2fadf9-0230-4eb2-ad65-4ca726dd36a6" />
-<img width="749" height="1579" alt="IMG_4353" src="https://github.com/user-attachments/assets/13948e6e-57f3-411d-89e4-233e37e9ee86" />
-<img width="1907" height="1430" alt="IMG_4352" src="https://github.com/user-attachments/assets/93471133-b854-463f-9560-673a0cfc4900" />
+<img width="350" alt="IMG_4353" src="https://github.com/user-attachments/assets/13948e6e-57f3-411d-89e4-233e37e9ee86" />
+<img width="350" alt="IMG_4352" src="https://github.com/user-attachments/assets/93471133-b854-463f-9560-673a0cfc4900" />
 
 ## Features
 * RP2040 microcontroller
