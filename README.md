@@ -38,3 +38,5 @@ I use devboards like the Pi Pico all the time, but I never really understood how
 | Crystal          | 12MHz         | 1        | C9002       | $0.20 |
 | ~~**Soldering Iron**~~ | |             1        |   stole it from a friend lol          |~~$20~~ |
 
+## Demos!
+I don't have access to a breadboard or anything to control with the devboard at the moment (:heavysob:) but here's a [video](https://cdn.hackclub.com/01a0e574-c0dc-76d3-b759-e71435e16d3c/IMG_4351.mp4) of the User-Controlled LED lighting up, and another [video](https://user-cdn.hackclub-assets.com/01a15276-ad8b-79ea-be17-06658552e3f3/IMG_4345.MOV) of me attempting to use a macgeyvered button to control the user LED
